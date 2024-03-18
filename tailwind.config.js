@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         "custom-purple": "#5C27C0",
+        "custom-lavender": "#EFE5FF",
       },
     },
   },
