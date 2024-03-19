@@ -17,7 +17,7 @@ const Hero = () => {
           processes, and top-tier <br /> talent connections. Rework is your
           strategic partner in redefining how you hire{" "}
         </p>
-        <button className="rounded-xl my-10 px-10 py-3 text-xl bg-custom-purple text-white">
+        <button className="rounded-xl my-10 px-14 py-4 text-xl bg-custom-purple text-white">
           Book A Demo
         </button>
         <div className="text-custom-purple flex items-center">
@@ -30,7 +30,7 @@ const Hero = () => {
       </div>
       <div className="flex justify-end mr-6">
         <div className="">
-          <div className="bg-custom-purple p-3 rounded absolute mt-[220px] ml-[-220px] text-white">
+          <div className="bg-custom-purple p-3 rounded absolute mt-[230px] ml-[-228px] text-white">
             <div className="flex items-center">
               <div className="bg-custom-lavender flex justify-center items-center w-16 h-16">
                 <img src={mask} alt="" className="" />
@@ -48,14 +48,14 @@ const Hero = () => {
               alt=""
             />
           </div>
-          <div className="bg-custom-purple p-2 absolute z-10 mt-[-75px] ml-[-70px] text-white">
+          <div className="bg-custom-purple p-2 rounded absolute z-10 mt-[-75px] ml-[-70px] text-white">
             <div className="flex items-center">
               <div className="bg-custom-lavender flex justify-center items-center w-16 h-16">
                 <img src={mask} alt="" className="" />
               </div>
               <h1 className="pl-3">
-                <span className="text-2xl font-bold">+10K</span> <br />{" "}
-                <span className="text-lg font-light">Candidates Hired</span>
+                <span className="text-2xl font-bold">+360</span> <br />{" "}
+                <span className="text-lg font-light">Happy Companies</span>
               </h1>
             </div>
           </div>
